@@ -7,4 +7,4 @@ __pycache__/
 *.png
 .DS_Store
 notebooks/.ipynb_checkpoints/
-EOF
+EOF*.pkl
