@@ -11,6 +11,8 @@ This started as a simple Random Forest script. It grew into a full interactive d
 
 ## Live dashboard
 
+🔗 **[Try it live → stock-strategy-ml.streamlit.app](https://stock-strategy-ml.streamlit.app)**
+
 ```bash
 streamlit run dashboard/app.py
 ```
